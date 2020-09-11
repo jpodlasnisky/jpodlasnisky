@@ -1,4 +1,4 @@
-### Hi there, João Pedro' here 👋
+### Hi there, João Pedro's here 👋
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Solutions architect at Code2Change</em></p>
