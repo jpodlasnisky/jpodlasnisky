@@ -1,9 +1,9 @@
 ### Hi there, João Pedro's here 👋
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Senior Fullstack Developer @Radix & Solutions architect @Code2Change</em></p>
+<p><em>Senior Fullstack Developer</em></p>
 
-I'm João Pedro. I'm from Porto Alegre, Brazil and even I already have a fully background from infrastructure and security, I've changed my carrer to focus in software development since 2018. I study at Anhanguera University and IGTI's Fullstack Bootcamp. I am totally driven by challenges!
+I'm João Pedro. I'm from Porto Alegre, Brazil and even I already have a fully background from infrastructure and security, I've changed my carrer to focus in software development. I am totally driven by challenges!
 
 ![status](https://img.shields.io/badge/status-up-blue)
 ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-blue)
