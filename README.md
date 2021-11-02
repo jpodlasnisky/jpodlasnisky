@@ -24,11 +24,11 @@ Talk to me about
 - Relational and non-relational databases using **MySQL, PostgreSQL, MongoDB, DynamoDB**
 
 ## 😎 Hobbies
-Stuff I like to do
+Stuff I like doing
 - Play videogames 🎮 (a special affection with counter strike)
-- Play music 🎹🎸🎼
-- Camping 🏕
-- Watch fiction series at Netflix/Prime Video 📺
-- Cook to my family 👨‍🍳
+- Play rock'n roll songs 🎹🎸🎼
+- Camping with friends 🏕
+- Watch TV series and movies 📺
+- Cooking to my family 👨‍🍳
 
 ![João Pedro's github stats](https://github-readme-stats.vercel.app/api?username=jpodlasnisky&hide=["issues"]&show_icons=true)
