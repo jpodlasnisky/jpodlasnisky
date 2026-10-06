@@ -1,34 +1,54 @@
-### Hi there, João Pedro's here 👋
+### Hi there, I'm João Pedro (Johnny) 👋
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Senior Fullstack Developer</em></p>
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-I'm João Pedro. I'm from Porto Alegre, Brazil and even I already have a fully background from infrastructure and security, I've changed my carrer to focus in software development. I am totally driven by challenges!
+**Senior Backend Engineer ** · **Founder @ Code2Change**
 
-![status](https://img.shields.io/badge/status-up-blue)
-![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-blue)
-![](https://img.shields.io/badge/Relationship-Married-blue)
-[![](https://img.shields.io/badge/LinkedIn-jpodlasnisky-blue)](https://www.linkedin.com/in/jpodlasnisky/)
+Software engineer from Porto Alegre, Brazil 🇧🇷 with 20+ years in tech. I started out in infrastructure and information security, moved into software development, and today I build backend systems at scale — and help companies put AI to real use.
+
+- 🏦 previously at **Coinbase** (via X-Team), **Itaú Unibanco**, **Ilegra**, **Radix**
+- 🚀 Founder of **Code2Change**, an AI consulting and automation company helping businesses adopt AI in a practical, results-driven way
+- 🤖 Currently focused on **AI development**, multi-agent orchestration and **Specification-Driven Development (SDD)**
+- 🎓 MBA in Software Engineering & AI · Background in Information Security
+- 🌎 Fluent in Portuguese and English
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jpodlasnisky-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jpodlasnisky/)
+
+---
+
+## 🤖 AI & Agents
+- **AWS Bedrock AgentCore** and **Amazon Bedrock** for model management and agent runtime
+- **Claude Code** and other CLI coding tools
+- **LangChain** (Python & Java) and **CrewAI** for agent development
+- Multi-agent orchestration, tool use and RAG
+- AI automation assistants with **N8N**, **DiFy** and **LangFlow**
+
+## ⚙️ Backend & Architecture
+- **Java / Spring Boot**, **Go**, **Python**, **Node.js**
+- Distributed systems, APIs and event-driven architecture
+- Cloud architecture on **AWS**
+- **PostgreSQL**, **MySQL**, **MongoDB**, **DynamoDB**
+
+## 🛠️ Product & Infra
+- **Supabase**, **Cloudflare**, **Docker**
+- Rapid SaaS prototyping with **Lovable**
+- Security-minded engineering from day one
+
+---
+
+## 💬 Talk to me about
+- Bringing AI agents from prototype to production
+- AI adoption strategy for companies
+- Backend architecture, scalability and reliability
+- Fintech and high-stakes systems
+
+## 😎 Off the keyboard
+- 🎸 Playing rock'n'roll
+- 🎾 Tennis
+- 🎮 Videogames (FPS has a special place)
+- 👨‍🍳 Cooking for my family
+
+---
 
 ![Top Languages](https://ghstats.dev/api/langs?username=jpodlasnisky&layout=compact)
-
-## ⚡ Technologies
-Talk to me about
-- Front-end development using **HTML, Javascript,CSS,Bootstrap, React, Angular**
-- Backend development using **Flask, Django, Java EE and Spring Boot, NodeJS, Golang**
-- Robust full-stack system design implementation
-- Desktop application development using **Flutter**(Still learning)
-- Mobile application development using **Flutter, ReactNative**
-- Creating scalable cloud architecture using **AWS Cloud**
-- Solving Data structure and algorithm questions in **Java and Python**
-- Relational and non-relational databases using **MySQL, PostgreSQL, MongoDB, DynamoDB**
-
-## 😎 Hobbies
-Stuff I like doing
-- Play videogames 🎮 (a special affection with counter strike)
-- Play rock'n roll songs 🎹🎸🎼
-- Camping with friends 🏕
-- Watch TV series and movies 📺
-- Cooking to my family 👨‍🍳
-
 ![GitHub Stats](https://ghstats.dev/api/card?username=jpodlasnisky)
