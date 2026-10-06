@@ -10,7 +10,7 @@ I'm João Pedro. I'm from Porto Alegre, Brazil and even I already have a fully b
 ![](https://img.shields.io/badge/Relationship-Married-blue)
 [![](https://img.shields.io/badge/LinkedIn-jpodlasnisky-blue)](https://www.linkedin.com/in/jpodlasnisky/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpodlasnisky&layout=compact)](https://github.com/jpodlasnisky)
+![Top Languages](https://ghstats.dev/api/langs?username=jpodlasnisky&layout=compact)
 
 ## ⚡ Technologies
 Talk to me about
@@ -31,4 +31,4 @@ Stuff I like doing
 - Watch TV series and movies 📺
 - Cooking to my family 👨‍🍳
 
-![João Pedro's github stats](https://github-readme-stats.vercel.app/api?username=jpodlasnisky&hide=["issues"]&show_icons=true)
+![GitHub Stats](https://ghstats.dev/api/card?username=jpodlasnisky)
