@@ -13,6 +13,7 @@ Software engineer from Porto Alegre, Brazil 🇧🇷 with 20+ years in tech. I s
 - 🌎 Fluent in Portuguese and English
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jpodlasnisky-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jpodlasnisky/)
+![Top Languages](https://ghstats.dev/api/langs?username=jpodlasnisky&layout=compact)
 
 ---
 
@@ -50,5 +51,4 @@ Software engineer from Porto Alegre, Brazil 🇧🇷 with 20+ years in tech. I s
 
 ---
 
-![Top Languages](https://ghstats.dev/api/langs?username=jpodlasnisky&layout=compact)
 ![GitHub Stats](https://ghstats.dev/api/card?username=jpodlasnisky)
