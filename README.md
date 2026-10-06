@@ -2,7 +2,7 @@
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-**Senior Backend Engineer ** · **Founder @ Code2Change**
+**Senior Backend Engineer** · **Founder @ Code2Change**
 
 Software engineer from Porto Alegre, Brazil 🇧🇷 with 20+ years in tech. I started out in infrastructure and information security, moved into software development, and today I build backend systems at scale — and help companies put AI to real use.
 
